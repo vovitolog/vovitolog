@@ -1,5 +1,5 @@
-- ###👋 Привет, меня зовут Владимир!
-- ### Я начинающий веб-разработчик.
+### 👋 Привет, меня зовут Владимир!
+### Я начинающий веб-разработчик.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning MERN stack in Yandex Practicum
 - 💞️ I’m looking to collaborate on ...
