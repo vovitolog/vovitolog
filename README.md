@@ -16,7 +16,7 @@
 ![NGINX](https://img.shields.io/badge/-nginx-141130?style=flat-square&logo=NGINX&logoColor=009900)
 
 [![codewars](https://www.codewars.com/users/vovitolog/badges/small)](https://www.codewars.com/users/vovitolog) 
-### Контакты:
+### Contacts:
 [![Telegram Badge](https://img.shields.io/badge/@vovitolog-telegram?style=flat&color=2AA7DA&logoColor=white&logo=telegram)](https://t.me/vovitolog "Contact on Telegram")
 [![Gmail Badge](https://img.shields.io/badge/vovitolog@gmail.com-email?style=flat&color=C5211E&logoColor=white&logo=gmail)](mailto:vovitolog@gmail.com "Email me")
 [![Linkedin Badge](https://img.shields.io/badge/%40vladimir-linkedin?style=flat&color=0077b5&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/vladimir-rodionov-23a58b89/ "Connect on LinkedIn")
