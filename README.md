@@ -15,7 +15,7 @@
 ![LINUX](https://img.shields.io/badge/-Linux-141130?style=flat-square&logo=Linux&logoColor=ffffff)
 ![NGINX](https://img.shields.io/badge/-nginx-141130?style=flat-square&logo=NGINX&logoColor=009900)
 
-[![codewars](https://www.codewars.com/users/vovitolog/badges/large)](https://www.codewars.com/users/vovitolog) 
+[![codewars](https://www.codewars.com/users/vovitolog/badges/small)](https://www.codewars.com/users/vovitolog) 
 ### Contacts:
 [![Telegram Badge](https://img.shields.io/badge/@vovitolog-telegram?style=flat&color=2AA7DA&logoColor=white&logo=telegram)](https://t.me/vovitolog "Contact on Telegram")
 [![Gmail Badge](https://img.shields.io/badge/vovitolog@gmail.com-email?style=flat&color=C5211E&logoColor=white&logo=gmail)](mailto:vovitolog@gmail.com "Email me")
