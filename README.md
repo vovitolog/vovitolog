@@ -1,5 +1,6 @@
 ### 👋 Hi there, my name is Vladimir!
-### I'm a Frontend developer.
+### I'm a DevOps engineer.
+<!---
 ### My main stack: 
 ![HTML5](https://img.shields.io/badge/-HTML5-141130?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-141130?style=flat-square&logo=CSS3&logoColor=009900)
@@ -19,12 +20,16 @@
 ![LINUX](https://img.shields.io/badge/-Linux-141130?style=flat-square&logo=Linux&logoColor=ffffff)
 ![NGINX](https://img.shields.io/badge/-nginx-141130?style=flat-square&logo=NGINX&logoColor=009900)
 ![BEM](https://img.shields.io/badge/-BEM-141130?style=flat-square&logo=BEM)
-
+--->
+<!---
 [![codewars](https://www.codewars.com/users/vovitolog/badges/small)](https://www.codewars.com/users/vovitolog) 
+--->
 ### Contacts:
 [![Telegram Badge](https://img.shields.io/badge/@vovitolog-telegram?style=flat&color=2AA7DA&logoColor=white&logo=telegram)](https://t.me/vovitolog "Contact on Telegram")
 [![Gmail Badge](https://img.shields.io/badge/vovitolog@gmail.com-email?style=flat&color=C5211E&logoColor=white&logo=gmail)](mailto:vovitolog@gmail.com "Email me")
+<!---
 [![Linkedin Badge](https://img.shields.io/badge/%40vladimir-linkedin?style=flat&color=0077b5&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/vladimir-rodionov-23a58b89/ "Connect on LinkedIn")
+--->
 <!---
 vovitolog/vovitolog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
