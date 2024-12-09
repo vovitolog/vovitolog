@@ -1,6 +1,7 @@
 ### 👋 Hi there, my name is Vladimir!
-### I'm a DevOps engineer.
 <!---
+### I'm a DevOps engineer.
+
 ### My main stack: 
 ![HTML5](https://img.shields.io/badge/-HTML5-141130?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-141130?style=flat-square&logo=CSS3&logoColor=009900)
